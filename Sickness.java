@@ -1,0 +1,3 @@
+public enum Sickness {
+    ORTHOPEDICS,HEART,KIDNEY,GYNECOLOGY, ETC
+}
